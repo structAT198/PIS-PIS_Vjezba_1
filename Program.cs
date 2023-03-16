@@ -10,8 +10,8 @@ namespace PIS_Vjezba_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ovo je vjezba 1.");
-            Console.WriteLine("Novo");
+            Console.WriteLine("Ovo je vjezba 1."); //prvi ispis
+            Console.WriteLine("Novo"); //drugi ispis
         }
     }
 }
