@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PIS_Vjezba_1
 {
-    class NewClass
+    class NewClass //ovo je nova klasa
     {
 
     }
