@@ -8,6 +8,9 @@ namespace PIS_Vjezba_1
 {
     class NewClass
     {
-
+        public void Test()
+        {
+            Console.WriteLine("Test");
+        }
     }
 }
